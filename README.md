@@ -24,3 +24,9 @@ Here is a breakdown of the custom features I programmed into the script:
 - **Pin 6**: Sensor Receiver (Echo)
 - **Pin 9**: Servo Motor Control Line
 
+## Video
+
+
+https://github.com/user-attachments/assets/f56059d0-c126-459b-aafe-9083b9d9a084
+
+
